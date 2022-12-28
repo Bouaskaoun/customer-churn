@@ -1,6 +1,6 @@
 # Telco Customer Churn
 
-In this project, we will be exploring [the Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) from Kaggle. This dataset contains information about a telecom company's customers and whether or not they churned (i.e. stopped being a customer).
+In this project, we will be exploring the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) from Kaggle. This dataset contains information about a telecom company's customers and whether or not they churned (i.e. stopped being a customer).
 
 We will be comparing the performance of 6 different machine learning algorithms in predicting customer churn:
 
